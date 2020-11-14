@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `El blog de Valeria`,
+    title: ` El blog de Valeria `,
     author: {
       name: `Valeria Bermejo Redondo`,
       summary: `Que vive en Wantage Inglaterra.`,
